@@ -17,3 +17,23 @@ h1{
   color: aquamarine;
   font-size: 16px;
 }
+
+h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p{
+  font-size: 21px;
+  color: gray;
+}
+
+.app{
+  height: 108px;
+  width: 64px;
+}
+
+video{
+  height: 720px;
+  width: 404px;
+}
